@@ -1,12 +1,10 @@
-## Hi there 👋
+# NSDEA (formerly nsde-archive)
+This organization is actually just my ([@nsde](github.com/nsde)) place to deposit forks, inactive projects and more!
 
-<!--
+## Important Update - Apr 27, 2022
+I just deleted ~23 repositories because they included private information.
+I'm not naming (all of) them to avoid people looking for cached archives.
+Most of them weren't big projects anyways. This is why I'll just re-upload bigger projects, including:
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- NeoVision
+- ArgonCraft
