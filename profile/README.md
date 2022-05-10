@@ -1,3 +1,6 @@
+### ⚠️ CHAOS WARNING
+Here are a lot of repositories, forks, archives & more. That's because this page is not meant to be visited quite often. Just for archival, technical and other purposes.
+
 # NSDEA (formerly nsde-archive)
 This organization is actually just my ([@nsde](github.com/nsde)) place to deposit forks, inactive projects and more!
 
